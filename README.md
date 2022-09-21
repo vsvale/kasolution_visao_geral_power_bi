@@ -11,3 +11,6 @@
 - criação de tabela de datas
 - criação de medida de total de vendas
 ![ER.png](./img/ER.png)
+
+## Report
+![report.png](./img/report.png)
