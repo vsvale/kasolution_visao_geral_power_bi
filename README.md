@@ -7,3 +7,7 @@
 - logo da empresa
 
 ## Modelagem dimensional
+- criação das dimensões: estados, clientes, produtos, formas de pagamento, lojas, vendedores
+- criação de tabela de datas
+- criação de medida de total de vendas
+![ER.png](./img/ER.png)
