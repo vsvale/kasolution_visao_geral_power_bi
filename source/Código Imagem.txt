@@ -1,0 +1,8 @@
+let
+    imagens = (pasta as binary) as text =>
+    let
+        Base64 = "data:image/jpeg;base64, " & Binary.ToText(pasta, BinaryEncoding.Base64)
+    in
+        Base64
+in
+    imagens
